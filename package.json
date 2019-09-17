@@ -1,0 +1,25 @@
+{
+  "name": "foam-form",
+  "version": "0.0.62",
+  "description": "How to use Material UI components with Redux Form",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "material-ui": "0.20.2",
+    "react": "15.6.2",
+    "react-dom": "15.6.2",
+    "react-redux": "5.1.1",
+    "redux": "4.0.4",
+    "redux-form": "6.8.0",
+    "redux-form-website-template": "0.0.49"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
